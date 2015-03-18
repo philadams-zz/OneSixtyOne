@@ -1,485 +1,646 @@
 [
   {
+    "thing_id": 1, 
     "title": "Make the library into your bedroom and have sex in the stacks."
   }, 
   {
+    "thing_id": 2, 
     "title": "Finally meet the dazzling Denice Cassaro."
   }, 
   {
+    "thing_id": 3, 
     "title": "Buy season hockey tickets; heckle the goalies."
   }, 
   {
+    "thing_id": 4, 
     "title": "Go to the Cornell-Harvard men's hockey game and throw fish on the ice."
   }, 
   {
+    "thing_id": 5, 
     "title": "Sing along to \"We didn't go to Harvard\" with the Cayuga's Waiters."
   }, 
   {
+    "thing_id": 6, 
     "title": "Sled down Libe Slope during a snow storm."
   }, 
   {
+    "thing_id": 7, 
     "title": "Take Hotel Administration 4300: Introduction to Wines."
   }, 
   {
+    "thing_id": 8, 
     "title": "Streak across the Arts Quad."
   }, 
   {
+    "thing_id": 9, 
     "title": "Take Psych 1101."
   }, 
   {
+    "thing_id": 10, 
     "title": "Test out Olin Library's musically calibrated steps by throwing stones on them."
   }, 
   {
+    "thing_id": 11, 
     "title": "Attempt sake bombing at Plum Tree or Miyake in Collegetown."
   }, 
   {
+    "thing_id": 12, 
     "title": "Order ice cream at the Dairy Bar."
   }, 
   {
+    "thing_id": 13, 
     "title": "Climb the rock wall in Bartels Hall."
   }, 
   {
+    "thing_id": 14, 
     "title": "Listen to a full chimes concert from the clock tower and guess the songs played."
   }, 
   {
+    "thing_id": 15, 
     "title": "Register for classes during Orientation, then switch out of every single one by the time Add/Drop ends."
   }, 
   {
+    "thing_id": 16, 
     "title": "Wear flip-flops to class in January."
   }, 
   {
+    "thing_id": 17, 
     "title": "Go to the Fuertes Observatory and gaze at meteor showers."
   }, 
   {
+    "thing_id": 18, 
     "title": "Have a snowball fight in May."
   }, 
   {
+    "thing_id": 19, 
     "title": "Milk a cow."
   }, 
   {
+    "thing_id": 20, 
     "title": "Skip class to play frisbee on the Arts Quad."
   }, 
   {
+    "thing_id": 21, 
     "title": "Bury a bottle of Bacardi on the Slope. Dig it up on Slope Day.."
   }, 
   {
+    "thing_id": 22, 
     "title": "Pick apples at the Cornell Orchards."
   }, 
   {
+    "thing_id": 23, 
     "title": "Attend the Apple Festival on the Commons in the fall."
   }, 
   {
+    "thing_id": 24, 
     "title": "Flirt with your professor."
   }, 
   {
+    "thing_id": 25, 
     "title": "Bomb a prelim."
   }, 
   {
+    "thing_id": 26, 
     "title": "Ace the next one to save your grade."
   }, 
   {
+    "thing_id": 27, 
     "title": "Attend Hotelie prom."
   }, 
   {
+    "thing_id": 28, 
     "title": "Meet Happy Dave from Okenshield's and take a picture with him."
   }, 
   {
+    "thing_id": 29, 
     "title": "Turn your face blue from screaming at midnight before the first finals."
   }, 
   {
+    "thing_id": 30, 
     "title": "Get heartburn at the Chili Cook-off in the Commons."
   }, 
   {
+    "thing_id": 31, 
     "title": "Enjoy Ithaca's two months of warm weather \u2014 spend a summer here!."
   }, 
   {
+    "thing_id": 32, 
     "title": "Go to a Shabbat dinner at 104 West and charge it to Cornell Card."
   }, 
   {
+    "thing_id": 33, 
     "title": "Watch the AAP students parade on Dragon Day."
   }, 
   {
+    "thing_id": 34, 
     "title": "Enjoy corn nuggets at The Nines."
   }, 
   {
+    "thing_id": 35, 
     "title": "Build a snow penis or count how many you see around campus."
   }, 
   {
+    "thing_id": 36, 
     "title": "Dress up and view The Rocky Horror Picture Show at Risley."
   }, 
   {
+    "thing_id": 37, 
     "title": "Take a class you think is impossible just for fun."
   }, 
   {
+    "thing_id": 38, 
     "title": "Go on a wine tour."
   }, 
   {
+    "thing_id": 39, 
     "title": "Kiss on the suspension bridge at midnight."
   }, 
   {
+    "thing_id": 40, 
     "title": "Sleep through your alarm for your 1:25 class."
   }, 
   {
+    "thing_id": 41, 
     "title": "Shop at the Friends of the Library Book Sale."
   }, 
   {
+    "thing_id": 42, 
     "title": "Get out of a University parking ticket."
   }, 
   {
+    "thing_id": 43, 
     "title": "Buy an Ithaca Is Gorges t-shirt, then get sick of wearing it and buy a variation (Ithaca Is Gangsta)."
   }, 
   {
+    "thing_id": 44, 
     "title": "Learn the \"Alma Mater\", \"Evening Song\", and \"Give My Regards to Davy\"."
   }, 
   {
+    "thing_id": 45, 
     "title": "Attend an opening at the Johnson Museum of Art."
   }, 
   {
+    "thing_id": 46, 
     "title": "Smuggle food from the dining hall and run for your life as they try to get back your stolen cookies."
   }, 
   {
+    "thing_id": 47, 
     "title": "Do the Walk of Shame."
   }, 
   {
+    "thing_id": 48, 
     "title": "Have dinner at a professor's house."
   }, 
   {
+    "thing_id": 49, 
     "title": "Get wasted at a professor's house."
   }, 
   {
+    "thing_id": 50, 
     "title": "Have lunch with President Skorton in Trillium; ask if he's done with that burger."
   }, 
   {
+    "thing_id": 51, 
     "title": "Play a game of tag in the Kroch Library stacks."
   }, 
   {
+    "thing_id": 52, 
     "title": "See a play at the Schwartz Center."
   }, 
   {
+    "thing_id": 53, 
     "title": "Rush the field at the last home football game of the season."
   }, 
   {
+    "thing_id": 54, 
     "title": "Attend a Cornell Night."
   }, 
   {
+    "thing_id": 55, 
     "title": "Gamble at Turning Stone (try not to lose money)."
   }, 
   {
+    "thing_id": 56, 
     "title": "Watch dancers fly through the air at a Bhangra show."
   }, 
   {
+    "thing_id": 57, 
     "title": "Have a midnight picnic in the Cornell Plantations."
   }, 
   {
+    "thing_id": 58, 
     "title": "Wait half an hour for a Terrace Salad."
   }, 
   {
+    "thing_id": 59, 
     "title": "Ignore any and all \"No Winter Maintenance\" signs; slip and fall on the icy stairs."
   }, 
   {
+    "thing_id": 60, 
     "title": "Sit in Libe Caf\u00e9 when you have no work; watch the studiers down gallons of coffee."
   }, 
   {
+    "thing_id": 61, 
     "title": "Write an angry letter to the editor of The Sun."
   }, 
   {
+    "thing_id": 62, 
     "title": "Go to Wegmans on a Friday or Saturday night."
   }, 
   {
+    "thing_id": 63, 
     "title": "Explore the secret underground tunnel between Uris and Olin libraries."
   }, 
   {
+    "thing_id": 64, 
     "title": "See the library's Rare Book Collection."
   }, 
   {
+    "thing_id": 65, 
     "title": "Pretend you are Harry Potter and study in the Law School library."
   }, 
   {
+    "thing_id": 66, 
     "title": "See the brain collection in Uris Hall."
   }, 
   {
+    "thing_id": 67, 
     "title": "Eat at Taverna Banfi (formerly Banfi's) and charge it to CornellCard."
   }, 
   {
+    "thing_id": 68, 
     "title": "Buy beer at Jason's in Collegetown and charge it to CityBucks."
   }, 
   {
+    "thing_id": 69, 
     "title": "Take PAPL 2010: Magical Mushrooms, Mischievous Molds."
   }, 
   {
+    "thing_id": 70, 
     "title": "Take part in a psychology experiment."
   }, 
   {
+    "thing_id": 71, 
     "title": "Take an unplanned nap in a library."
   }, 
   {
+    "thing_id": 72, 
     "title": "Take over a building."
   }, 
   {
+    "thing_id": 73, 
     "title": "According to legend, watch a virgin cross the Arts Quad and then witness A.D. White and Ezra Cornell shake hands."
   }, 
   {
+    "thing_id": 74, 
     "title": "Live through an Ithaca blizzard and tell your friends how you survived frostbite."
   }, 
   {
+    "thing_id": 75, 
     "title": "Throw a flaming pumpkin into the gorge."
   }, 
   {
+    "thing_id": 76, 
     "title": "Play co-ed intramural innertube water polo."
   }, 
   {
+    "thing_id": 77, 
     "title": "Spend all your lectures figuring out the day's Sudoku. While sitting for the final, wish you had taken notes instead.."
   }, 
   {
+    "thing_id": 78, 
     "title": "Hook up with your T.A.."
   }, 
   {
+    "thing_id": 79, 
     "title": "Order a PMP at the Hot Truck."
   }, 
   {
+    "thing_id": 80, 
     "title": "Play trivia at Rulloff's on a Sunday night."
   }, 
   {
+    "thing_id": 81, 
     "title": "Go back for karaoke night on Monday."
   }, 
   {
+    "thing_id": 82, 
     "title": "Get fishbowls at Level B and collect all the animals."
   }, 
   {
+    "thing_id": 83, 
     "title": "Hit up Group Therapy on Wednesdays at Dunbar's."
   }, 
   {
+    "thing_id": 84, 
     "title": "Go bowling at Helen Newman Lanes."
   }, 
   {
+    "thing_id": 85, 
     "title": "Hand out quartercards on Ho Plaza."
   }, 
   {
+    "thing_id": 86, 
     "title": "Drive your car up and down Libe Slope or Ho Plaza."
   }, 
   {
+    "thing_id": 87, 
     "title": "Have a friend's parents take you out to eat at John Thomas Steakhouse or Boatyard Grill."
   }, 
   {
+    "thing_id": 88, 
     "title": "Eat a chicken parm sandwich from Louie's Lunch."
   }, 
   {
+    "thing_id": 89, 
     "title": "Eat breakfast at 2 a.m. at the State Diner."
   }, 
   {
+    "thing_id": 90, 
     "title": "Males: Get thrown out of Balch Hall."
   }, 
   {
+    "thing_id": 91, 
     "title": "Hook up with a freshman."
   }, 
   {
+    "thing_id": 92, 
     "title": "Go skinny dipping in a gorge."
   }, 
   {
+    "thing_id": 93, 
     "title": "Walk to the Commons and back."
   }, 
   {
+    "thing_id": 94, 
     "title": "Go to an a cappella concert."
   }, 
   {
+    "thing_id": 95, 
     "title": "Eat in the Risley dining hall."
   }, 
   {
+    "thing_id": 96, 
     "title": "Write a message on the wall at Collegetown Pizza."
   }, 
   {
+    "thing_id": 97, 
     "title": "Sell back your books; use money to buy alcohol."
   }, 
   {
+    "thing_id": 98, 
     "title": "Drink bubble tea."
   }, 
   {
+    "thing_id": 99, 
     "title": "Eat a Pinesburger."
   }, 
   {
+    "thing_id": 100, 
     "title": "Walk to a fraternity party with your entire freshman floor."
   }, 
   {
+    "thing_id": 101, 
     "title": "Go to a fraternity party as a senior; convince yourself you were never one of them."
   }, 
   {
+    "thing_id": 102, 
     "title": "Get lost in Collegetown during Orientation Week."
   }, 
   {
+    "thing_id": 103, 
     "title": "Get rejected at a bar because the bouncer knows the person whose I.D. you are using."
   }, 
   {
+    "thing_id": 104, 
     "title": "See a foreign film at Cinemapolis or Fall Creek Theater."
   }, 
   {
+    "thing_id": 105, 
     "title": "Eat mongo at RPCC."
   }, 
   {
+    "thing_id": 106, 
     "title": "See a concert at Barton Hall."
   }, 
   {
+    "thing_id": 107, 
     "title": "Gain the freshman 15, pay $300 for a gym membership and don't go."
   }, 
   {
+    "thing_id": 108, 
     "title": "Eat brunch on North Campus."
   }, 
   {
+    "thing_id": 109, 
     "title": "Do your Freshman Reading Project before you graduate."
   }, 
   {
+    "thing_id": 110, 
     "title": "Fail your swim test, just for kicks."
   }, 
   {
+    "thing_id": 111, 
     "title": "Tailgate for homecoming."
   }, 
   {
+    "thing_id": 112, 
     "title": "Be a model in the Cornell Fashion Collective's annual fashion show."
   }, 
   {
+    "thing_id": 113, 
     "title": "Host a prefrosh."
   }, 
   {
+    "thing_id": 114, 
     "title": "Request a song to be played on the clock tower."
   }, 
   {
+    "thing_id": 115, 
     "title": "Get guilt-tripped into giving blood."
   }, 
   {
+    "thing_id": 116, 
     "title": "Get asked if you are pregnant at Gannett (males and females)."
   }, 
   {
+    "thing_id": 117, 
     "title": "Drink with your R.A.."
   }, 
   {
+    "thing_id": 118, 
     "title": "Make a chalking; weep when it rains that night."
   }, 
   {
+    "thing_id": 119, 
     "title": "Sing drunk on the drunk bus."
   }, 
   {
+    "thing_id": 120, 
     "title": "Meet Bill Nye '77, \"The Science Guy\",  and give him a hug."
   }, 
   {
+    "thing_id": 121, 
     "title": "See how long you can go without doing laundry."
   }, 
   {
+    "thing_id": 122, 
     "title": "Go on a road trip to Canada, flirt with the border patrol, smuggle booze back."
   }, 
   {
+    "thing_id": 123, 
     "title": "Try to order pizza from a Blue Light phone."
   }, 
   {
+    "thing_id": 124, 
     "title": "Go to the sex shop on the Commons."
   }, 
   {
+    "thing_id": 125, 
     "title": "Get drunk on Slope Day, run into Vice President Susan Murphy '73."
   }, 
   {
+    "thing_id": 126, 
     "title": "Complain about the Slope Day headliners."
   }, 
   {
+    "thing_id": 127, 
     "title": "Get tapped for a secret society."
   }, 
   {
+    "thing_id": 128, 
     "title": "Go to Pyramid Mall, realize it is  severely lacking, then drive to Carousel Mall  in Syracuse."
   }, 
   {
+    "thing_id": 129, 
     "title": "Attend Cross Country Gourmet at a dining hall near you."
   }, 
   {
+    "thing_id": 130, 
     "title": "Complain about your writing seminar."
   }, 
   {
+    "thing_id": 131, 
     "title": "Walk holding hands around Beebe Lake."
   }, 
   {
+    "thing_id": 132, 
     "title": "Visit the Sciencenter."
   }, 
   {
+    "thing_id": 133, 
     "title": "Watch a soccer game at Mama T's, crammed in like a sardine."
   }, 
   {
+    "thing_id": 134, 
     "title": "Get J.A.'d for urinating on the Law School."
   }, 
   {
+    "thing_id": 135, 
     "title": "Hook up with someone randomly and then see them every day afterward."
   }, 
   {
+    "thing_id": 136, 
     "title": "Go to a coffee house in Just About Music (JAM)."
   }, 
   {
+    "thing_id": 137, 
     "title": "See how many people you can cram into your dorm room."
   }, 
   {
+    "thing_id": 138, 
     "title": "Watch people play Dance Dance Revolution in Appel."
   }, 
   {
+    "thing_id": 139, 
     "title": "Write dirty messages with rocks in the gorge."
   }, 
   {
+    "thing_id": 140, 
     "title": "Ride a horse at Oxley Equestrian Center."
   }, 
   {
+    "thing_id": 141, 
     "title": "Ring the giant bell in the Plantations."
   }, 
   {
+    "thing_id": 142, 
     "title": "Crash a political rally on Ho Plaza."
   }, 
   {
+    "thing_id": 143, 
     "title": "Do the COE ropes course."
   }, 
   {
+    "thing_id": 144, 
     "title": "Attend a show at the State Theatre."
   }, 
   {
+    "thing_id": 145, 
     "title": "Make a prank call to the CIT HelpDesk."
   }, 
   {
+    "thing_id": 146, 
     "title": "Wake up at 7 a.m. for CoursEnroll, then realize that your choice classes are full anyway."
   }, 
   {
+    "thing_id": 147, 
     "title": "Ski at Greek Peak."
   }, 
   {
+    "thing_id": 148, 
     "title": "Take a night prelim near the vet school, walk back in the dark."
   }, 
   {
+    "thing_id": 149, 
     "title": "Trespass on Alumni Fields."
   }, 
   {
+    "thing_id": 150, 
     "title": "Ask Uncle Ezra a question."
   }, 
   {
+    "thing_id": 151, 
     "title": "Take the BASICS program."
   }, 
   {
+    "thing_id": 152, 
     "title": "Walk to class in the snow, uphill both ways."
   }, 
   {
+    "thing_id": 153, 
     "title": "Buy a Cornell-grown apple from a vending machine."
   }, 
   {
+    "thing_id": 154, 
     "title": "Furnish an apartment/dorm room entirely with items from the Dump & Run."
   }, 
   {
+    "thing_id": 155, 
     "title": "Eat at each dining hall at least once."
   }, 
   {
+    "thing_id": 156, 
     "title": "Ask for an extension on a term paper."
   }, 
   {
+    "thing_id": 157, 
     "title": "Take part in Holi and get colorful."
   }, 
   {
+    "thing_id": 158, 
     "title": "Prepare to pull an all-nighter at Uris Library by drinking three Mountain Dews and two cups of coffee; accomplish nothing due to an inability to sit still."
   }, 
   {
+    "thing_id": 159, 
     "title": "Tell a professor what you really think of his/her class."
   }, 
   {
+    "thing_id": 160, 
     "title": "Attend a Sun organizational meeting: go to cornellsun.com for details."
   }, 
   {
+    "thing_id": 161, 
     "title": "Climb all 161 steps to the top of McGraw Tower."
   }
 ]
