@@ -21,15 +21,20 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-// TODO:phil refactor like a boss
-public class MainActivity extends Activity
+/**
+ * OneSixtyOneActivity: list and provide interaction on all 161 things.
+ * TODO:philadams refactor like a boss
+ * TODO:philadams about view
+ * TODO:philadams indicate completion state
+ */
+public class OneSixtyOneActivity extends Activity
     implements LoaderManager.LoaderCallbacks<Cursor> {
 
-  public static final String TAG = MainActivity.class.getSimpleName();
+  public static final String TAG = OneSixtyOneActivity.class.getSimpleName();
 
   private static final int LOADER_ID = 1;
   private LoaderManager.LoaderCallbacks<Cursor> loaderCallbacks;
-  private SimpleCursorAdapter adapter;
+  private OneSixtyOneAdapter adapter;
 
   private static final String[] PROJECTION = new String[] { "_id", "description", "status" };
 
@@ -92,8 +97,7 @@ public class MainActivity extends Activity
     ListView oneSixtyOneThingsListView = (ListView) findViewById(R.id.onesixtyone_list_view);
     String[] dataColumns = { "thing_id", "description" };
     int[] viewIds = { R.id.thing_id, R.id.description };
-    adapter = new SimpleCursorAdapter(this, R.layout.one_sixty_one_thing, null, dataColumns,
-        viewIds, 0);
+    adapter = new OneSixtyOneAdapter(this, null, 0);
     oneSixtyOneThingsListView.setAdapter(adapter);
     loaderCallbacks = this;
     LoaderManager loaderManager = getLoaderManager();
